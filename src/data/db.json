@@ -1,0 +1,119 @@
+{
+    "principal_navBar": [
+        {
+            "id": "00",
+            "name": "HOME",
+            "link": "/"
+        },
+        {
+            "id": "01",
+            "name": "DESTINATION",
+            "link": "destination"
+        },
+        {
+            "id": "02",
+            "name": "CREW",
+            "link": "crew"
+        },
+        {
+            "id": "03",
+            "name": "TECHNOLOGY",
+            "link": "technology"
+        }
+    ],
+    "destinations": [
+        {
+            "id": "00",
+            "tittle": "Pick your destination",
+            "name": "MOON",
+            "info": "See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.",
+            "distance":"AVG. DISTANCE",
+            "distance_info": "384,400 km",
+            "time": "Est. travel time",
+            "time_info":"3 days"
+        },
+        {
+            "id":"01",
+            "tittle": "Pick your destination",
+            "name":"MARS",
+            "info":"Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
+            "distance":"AVG. DISTANCE",
+            "distance_info": "225 MIL. km",
+            "time": "Est. travel time",
+            "time_info":"9 months"
+        },
+        {
+            "id":"02",
+            "tittle": "Pick your destination",
+            "name":"EUROPA",
+            "info":"The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for a bit of ice skating, curling, hockey, or simple relaxation in your snug wintery cabin.",
+            "distance":"AVG. DISTANCE",
+            "distance_info": "628 MIL. km",
+            "time": "Est. travel time",
+            "time_info":"3 years"
+        },
+        {
+            "id":"03",
+            "tittle": "Pick your destination",
+            "name":"TITAN",
+            "info":"The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
+            "distance":"AVG. DISTANCE",
+            "distance_info": "1.6 BIL. km",
+            "time": "Est. travel time",
+            "time_info":"7 years"
+        }
+    ],
+    "crew": [
+        {
+            "id":"00",
+            "tittle": "Meet your crew",
+            "occupation":"Commander",
+            "name":"Douglas Hurley",
+            "info_crew": "Douglas Gerald Hurley is an American engineer, former Marine Corps pilot and former NASA astronaut. He launched into space for the third time as commander of Crew Dragon Demo-2."
+        },
+        {
+            "id":"01",
+            "tittle": "Meet your crew",
+            "occupation":"Mission Specialist",
+            "name":"MARK SHUTTLEWORTH",
+            "info_crew": "Douglas Gerald Hurley is an American engineer, former Marine Corps pilot and former NASA astronaut. He launched into space for the third time as commander of Crew Dragon Demo-2."
+        },
+        {
+            "id":"02",
+            "tittle": "Meet your crew",
+            "occupation":"PILOT",
+            "name":"Victor Glover",
+            "info_crew": "Pilot on the first operational flight of the SpaceX Crew Dragon to the International Space Station. Glover is a commander in the U.S. Navy where he pilots an F/A-18.He was a crew member of Expedition 64, and served as a station systems flight engineer."
+        },
+        {
+            "id":"03",
+            "tittle": "Meet your crew",
+            "occupation":"Flight Engineer",
+            "name":"Anousheh Ansari",
+            "info_crew": "Anousheh Ansari is an Iranian American engineer and co-founder of Prodea Systems. Ansari was the fourth self-funded space tourist, the first self-funded woman to fly to the ISS, and the first Iranian in space."
+        }
+    ],
+    "technology": [
+        {
+            "id":"00",
+            "tittle": "SPACE LAUNCH 101",
+            "sub_tittle": "THE TERMINOLOGY…",
+            "info_techology_t": "LAUNCH VEHICLE",
+            "info_techology_p": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+        },
+        {
+            "id":"01",
+            "tittle": "SPACE LAUNCH 101",
+            "sub_tittle": "THE TERMINOLOGY…",
+            "info_techology_t": "SPACEPORT",
+            "info_techology_p": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+        },
+        {
+            "id":"01",
+            "tittle": "SPACE LAUNCH 101",
+            "sub_tittle": "THE TERMINOLOGY…",
+            "info_techology_t": "SPACE CAPSULE",
+            "info_techology_p": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+        }
+    ]
+}
