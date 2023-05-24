@@ -3,7 +3,7 @@
         {
             "id": "00",
             "name": "HOME",
-            "link": "/"
+            "link": ""
         },
         {
             "id": "01",
@@ -21,7 +21,7 @@
             "link": "technology"
         }
     ],
-    "destinations": [
+    "destination": [
         {
             "id": "00",
             "tittle": "Pick your destination",
